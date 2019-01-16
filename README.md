@@ -39,4 +39,4 @@ and then restart your Computer or else goto Task Manager and Close USB copyer.ex
 
 **You can also hire us at Fiverr **
 
-## [My Fiverr Profile](https://M.me/NaaeemMalik)
+## [My Fiverr Profile](https://www.fiverr.com/xtremerocx/)
