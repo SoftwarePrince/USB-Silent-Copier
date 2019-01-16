@@ -1,4 +1,4 @@
-# USB-Silent-Copier 3.0
+# USB Silent Copier 3.0
 USB Silent Copier is a Windows application which copies USB Data Silentely.
 
 This Application has AntiVirus like GUI so that it can tell you how much data from USB has been copied.
