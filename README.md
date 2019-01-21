@@ -39,10 +39,9 @@ and then restart your Computer or else goto Task Manager and Close USB copyer.ex
 
 ## [My Fiverr Profile](https://www.fiverr.com/xtremerocx/)
 
-
 **If you want us to add costumised changes in it for you then you will have to hire for payed work**
 
-## [Message Me](https://M.me/NaaeemMalik)
+## [Email Me: naaeemmalik21@gmail.com](mailto:NaaeemMalik21@gmail.com)
 
-
+## [My Messenger](https://M.me/NaaeemMalik)
 
