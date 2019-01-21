@@ -10,6 +10,9 @@ Open `USB Silent Copier.exe` and if it is already not istalled it will be instal
 Change the Path where you want it to copy data in `C:\Users\UserName\Documents\USB Data 3.0.0.txt`
 If you Dont change path and you dont Have space in C drive it will be failed to copy.
 
+## To Add yours USB in Exception List:
+Rename your USB to your own Name and then Add your Name in `C:\Users\UserName\Documents\USB Data 3.0.0.txt`, and it will never copy that USB. dont include mount charector in there. For example I will Modify my USB name to Naeem and will write Naeem on line 2.if you want to add more you can write each usb name on next line.
+
 ## Description:
 What is USB Sient Copier. Imagine this, You?re an Engineering student and you want to have as much precise information as possible about the next exam. Where do you get that info. Simple, From your professor?s mind! You?re a parent and you want to make sure your kid is not trying to hide illegal stuff from you. Where do you get that info. Simple again, From your kid?s mind. Or you?re that kind of dude who want to know every file that comes and goes from and to your PC. Where do you get that info. Yeah, you guessed it, from people?s mind. But what do I mean by that. Yet it's simple, people use USB Flash Drives to store data that they carry around, for different purposes. In our cases above, your professor stores exams, your kid stores stuff and people in general store and transfer files and data. So how can you get access to that information and make fact based, informed decisions. Introducing USB Silent Copier The Only Software Of Its Kind In The World! *USB Silent Copier* is the only software solution for that matter. USB Silent Copier copies all the content of all the USB Flash Drives connected to your computer, and puts that data to a folder on that computer so you can access and browse it later. It literally gives you access to all the data of every USB Flash Drive that has been connected to your computer, without you having physical access to those Flash Drives, but not only that, select which USB you wanna ignore choose the drive
 USB Silent Copier copies all the content of all the USB.
@@ -32,11 +35,14 @@ and then restart your Computer or else goto Task Manager and Close USB copyer.ex
 
 **Your Donation Will help us bring more Softwares and keep this one updated**
 
-## [My Facebook Profile](https://M.me/NaaeemMalik)
+## You can also hire us at Fiverr
+
+## [My Fiverr Profile](https://www.fiverr.com/xtremerocx/)
 
 
 **If you want us to add costumised changes in it for you then you will have to hire for payed work**
 
-**You can also hire us at Fiverr**
+## [Message Me](https://M.me/NaaeemMalik)
 
-## [My Fiverr Profile](https://www.fiverr.com/xtremerocx/)
+
+
