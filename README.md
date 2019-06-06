@@ -37,7 +37,7 @@ and then restart your Computer or else goto Task Manager and Close USB copyer.ex
 
 ## You can also hire us at Fiverr
 
-## [My Fiverr Profile](https://www.fiverr.com/xtremerocx/)
+## [My Fiverr Profile](https://www.fiverr.com/xtremerockx/)
 
 **If you want us to add costumised changes in it for you then you will have to hire for payed work**
 
