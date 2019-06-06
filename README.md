@@ -30,9 +30,8 @@ In Windows 10 goto Task Manager, open startup tab and Disable USB Copyer from th
 or In all Windows press `Windows+R` to open Run Box. then Type `"%AppData%\Microsoft\Windows\Start Menu\Programs\Startup"`  and press enter. a folder will be opened and delete USB copyer.exe from there.
 and then restart your Computer or else goto Task Manager and Close USB copyer.exe
 
-# Sorry Bro Source Code is no Longer Available Here.
-# You Have to ask for it on my Fiverr Profile 
-## [My Fiverr](https://www.fiverr.com/xtremerockx/)
+# Sorry Bro Source Code and the setup file is no Longer Available Here.
+# You Have to ask for it on [My Fiverr Profile](https://www.fiverr.com/xtremerockx/)
 
 
 # Donate:
