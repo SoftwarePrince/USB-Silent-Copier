@@ -31,7 +31,7 @@ or In all Windows press `Windows+R` to open Run Box. then Type `"%AppData%\Micro
 and then restart your Computer or else goto Task Manager and Close USB copyer.exe
 
 # Sorry Bro Source Code and the setup file is no Longer Available Here.
-# You Have to ask for it on [My Fiverr Profile](fiverr.com/ultimatecrackr)
+# You Have to ask for it on [My Fiverr Profile](https://www.fiverr.com/ultimatecrackr)
 
 
 # Donate:
@@ -40,7 +40,7 @@ and then restart your Computer or else goto Task Manager and Close USB copyer.ex
 
 ## You can also hire us at Fiverr
 
-## [My Fiverr Profile](fiverr.com/ultimatecrackr)
+## [My Fiverr Profile](https://www.fiverr.com/ultimatecrackr)
 
 **If you want us to add costumised changes in it for you then you will have to hire for payed work**
 
