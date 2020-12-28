@@ -46,6 +46,6 @@ and then restart your Computer or else goto Task Manager and Close USB copyer.ex
 
 ## [Email Me: admin@softwareprince.com](mailto:admin@softwareprince.com)
 
-##From: [Software Prince](https://www.softwareprince.com/)
+## From: [Software Prince](https://www.softwareprince.com/)
 
 
