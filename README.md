@@ -3,6 +3,8 @@ USB Silent Copier is a Windows application which copies USB Data Silentely.
 
 This Application has AntiVirus like GUI so that it can tell you how much data from USB has been copied.
 
+# [Download from github](https://softwareprince.com/go/UsbCopierDownload)
+
 ## Install:
 Open `USB Silent Copier.exe` and if it is already not istalled it will be installed else it will not.
 
@@ -29,9 +31,6 @@ We don’t know of any other software that does this specifically or as better, 
 In Windows 10 goto Task Manager, open startup tab and Disable USB Copyer from there.
 or In all Windows press `Windows+R` to open Run Box. then Type `"%AppData%\Microsoft\Windows\Start Menu\Programs\Startup"`  and press enter. a folder will be opened and delete USB copyer.exe from there.
 and then restart your Computer or else goto Task Manager and Close USB copyer.exe
-
-# [Download](https://github.com/SoftwarePrince/USB-Silent-Copier/raw/master/USB%20Silent%20Copier.exe)
-# You no longer have to ask for it on email
 
 
 ## You can also hire us on
