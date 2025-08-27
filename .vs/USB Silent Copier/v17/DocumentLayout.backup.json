@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workplace\\C#\\USB Silent Copier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|e:\\workplace\\c#\\usb silent copier\\usb silent copier\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|solutionrelative:usb silent copier\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|e:\\workplace\\c#\\usb silent copier\\usb silent copier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|solutionrelative:usb silent copier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|E:\\Workplace\\C#\\USB Silent Copier\\usb silent copier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|solutionrelative:usb silent copier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|E:\\Workplace\\C#\\USB Silent Copier\\usb silent copier\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|solutionrelative:usb silent copier\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|e:\\workplace\\c#\\usb silent copier\\usb silent copier\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|solutionrelative:usb silent copier\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|e:\\workplace\\c#\\usb silent copier\\usb silent copier\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|solutionrelative:usb silent copier\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|e:\\workplace\\c#\\usb silent copier\\usb silent copier\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|solutionrelative:usb silent copier\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\Form1.cs",
+              "RelativeDocumentMoniker": "USB Silent Copier\\Form1.cs",
+              "ToolTip": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\Form1.cs",
+              "RelativeToolTip": "USB Silent Copier\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwF0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T01:42:16.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "USB Silent Copier\\Form2.Designer.cs",
+              "ToolTip": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\Form2.Designer.cs",
+              "RelativeToolTip": "USB Silent Copier\\Form2.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAnwDEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T01:38:46.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\Form2.cs",
+              "RelativeDocumentMoniker": "USB Silent Copier\\Form2.cs",
+              "ToolTip": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\Form2.cs",
+              "RelativeToolTip": "USB Silent Copier\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T01:12:50.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutBox1.cs",
+              "DocumentMoniker": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\AboutBox1.cs",
+              "RelativeDocumentMoniker": "USB Silent Copier\\AboutBox1.cs",
+              "ToolTip": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\AboutBox1.cs",
+              "RelativeToolTip": "USB Silent Copier\\AboutBox1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T23:59:17.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutBox1.cs [Design]",
+              "DocumentMoniker": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\AboutBox1.cs",
+              "RelativeDocumentMoniker": "USB Silent Copier\\AboutBox1.cs",
+              "ToolTip": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\AboutBox1.cs [Design]",
+              "RelativeToolTip": "USB Silent Copier\\AboutBox1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-12T13:09:41.265Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\Form2.cs",
+              "RelativeDocumentMoniker": "USB Silent Copier\\Form2.cs",
+              "ToolTip": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\Form2.cs [Design]",
+              "RelativeToolTip": "USB Silent Copier\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-12T13:02:16.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\Form1.cs",
+              "RelativeDocumentMoniker": "USB Silent Copier\\Form1.cs",
+              "ToolTip": "E:\\Workplace\\C#\\USB Silent Copier\\USB Silent Copier\\Form1.cs [Design]",
+              "RelativeToolTip": "USB Silent Copier\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-04-12T13:02:06.608Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

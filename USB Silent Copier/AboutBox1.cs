@@ -110,7 +110,7 @@ namespace USB_copyer
         private void button1_Click(object sender, EventArgs e)
         {
             System.IO.File.Delete(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\Microsoft\Windows\Start Menu\Programs\Startup\USB Copyer.exe");
-            MessageBox.Show("Xtreme ROX USB Copyer is Uninstalled and will not run by next startup\nClose and Start Again to install", "Uninstalled",MessageBoxButtons.OK,MessageBoxIcon.Information);
+            MessageBox.Show("XtremeRockX USB Copyer is Uninstalled and will not run by next startup\nClose and Start Again to install", "Uninstalled",MessageBoxButtons.OK,MessageBoxIcon.Information);
         }
 
         private void okButton_Click(object sender, EventArgs e)
@@ -121,6 +121,18 @@ namespace USB_copyer
         private void textBoxDescription_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        public void OpenCopierGithub(object sender, EventArgs e)
+        {
+
+            System.Diagnostics.Process.Start("https://softwareprince.com/go/UsbSilentCopierAboutPageUrlClick");
+        }
+
+        public void OpenCompanyURL(object sender, EventArgs e)
+        {
+
+            System.Diagnostics.Process.Start("https://softwareprince.com/go/UsbSilentCopierAboutPageUrlClick");
         }
     }
 }

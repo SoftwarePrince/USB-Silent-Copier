@@ -1,0 +1,13 @@
+E:\Workplace\C#\USB Silent Copier\USB Silent Copier\bin\Debug\USB Silent Copier.exe.config
+E:\Workplace\C#\USB Silent Copier\USB Silent Copier\obj\Debug\USB_Silent_Copier.Properties.Resources.resources
+E:\Workplace\C#\USB Silent Copier\USB Silent Copier\obj\Debug\USB Silent Copier.csproj.GenerateResource.Cache
+E:\Workplace\C#\USB Silent Copier\USB Silent Copier\bin\Debug\USB Silent Copier.exe
+E:\Workplace\C#\USB Silent Copier\USB Silent Copier\bin\Debug\USB Silent Copier.pdb
+E:\Workplace\C#\USB Silent Copier\USB Silent Copier\obj\Debug\USB_copyer.AboutBox1.resources
+E:\Workplace\C#\USB Silent Copier\USB Silent Copier\obj\Debug\USB_copyer.Form1.resources
+E:\Workplace\C#\USB Silent Copier\USB Silent Copier\obj\Debug\USB_copyer.Form2.resources
+E:\Workplace\C#\USB Silent Copier\USB Silent Copier\obj\Debug\USB Silent Copier.exe
+E:\Workplace\C#\USB Silent Copier\USB Silent Copier\obj\Debug\USB Silent Copier.pdb
+E:\Workplace\C#\USB Silent Copier\USB Silent Copier\obj\Debug\USB Silent Copier.csproj.AssemblyReference.cache
+E:\Workplace\C#\USB Silent Copier\USB Silent Copier\obj\Debug\USB Silent Copier.csproj.SuggestedBindingRedirects.cache
+E:\Workplace\C#\USB Silent Copier\USB Silent Copier\obj\Debug\USB Silent Copier.csproj.CoreCompileInputs.cache
