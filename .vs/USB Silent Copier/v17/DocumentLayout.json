@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "E:\\Workplace\\C#\\USB-Silent-Copier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|E:\\Workplace\\C#\\USB-Silent-Copier\\usb silent copier\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|e:\\workplace\\c#\\usb-silent-copier\\usb silent copier\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CCF44F6-5692-4F95-9C4A-DA9D71023A2B}|USB Silent Copier\\USB Silent Copier.csproj|solutionrelative:usb silent copier\\aboutbox1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,8 +43,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-08-27T03:20:48.642Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -66,7 +65,7 @@
               "RelativeDocumentMoniker": "USB Silent Copier\\AboutBox1.cs",
               "ToolTip": "E:\\Workplace\\C#\\USB-Silent-Copier\\USB Silent Copier\\AboutBox1.cs",
               "RelativeToolTip": "USB Silent Copier\\AboutBox1.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAnwIAAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T23:59:17.792Z",
               "EditorCaption": ""
@@ -80,8 +79,7 @@
               "ToolTip": "E:\\Workplace\\C#\\USB-Silent-Copier\\USB Silent Copier\\AboutBox1.cs [Design]",
               "RelativeToolTip": "USB Silent Copier\\AboutBox1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-04-12T13:09:41.265Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2023-04-12T13:09:41.265Z"
             },
             {
               "$type": "Document",

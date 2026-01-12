@@ -125,14 +125,14 @@ namespace USB_copyer
 
         public void OpenCopierGithub(object sender, EventArgs e)
         {
-
-            System.Diagnostics.Process.Start("https://softwareprince.com/go/UsbSilentCopierAboutPageUrlClick");
+            
+            System.Diagnostics.Process.Start("https://go.softwareprince.com/UsbSilentCopierAboutPageUrlClick");
         }
 
         public void OpenCompanyURL(object sender, EventArgs e)
         {
 
-            System.Diagnostics.Process.Start("https://softwareprince.com/go/UsbSilentCopierAboutPageUrlClick");
+            System.Diagnostics.Process.Start("https://go.softwareprince.com/UsbSilentCopierAboutPageUrlClick");
         }
     }
 }
